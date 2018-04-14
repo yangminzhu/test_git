@@ -1,0 +1,3 @@
+[submodule "test_my_vendor"]
+	path = test_my_vendor
+	url = https://github.com/yangminzhu/test_my_vendor
